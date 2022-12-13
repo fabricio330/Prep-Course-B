@@ -1,3 +1,3 @@
-git add -
-git commit =m homework 01-js
+git add .
+git commit -m "comentario"
 git push
